@@ -1,4 +1,4 @@
-# My Portfolio Website
+# My Portfolio
 
 This is a simple portfolio website showcasing my projects, skills, and experiences. You can access the live website [here](https://akankshyadash2001.github.io/My_Portfolio/).
 
